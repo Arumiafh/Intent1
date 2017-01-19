@@ -1,8 +1,7 @@
 # Intent1
 
 ### A. Deskripsi Proyek
-- Judul Proyek : Start Activity
-<br>
+Intent1
 
 ### B. ScreenShoot
 ![Screenshot 1](https://s15.postimg.org/6858no87v/Intent1_1.png)<br>
